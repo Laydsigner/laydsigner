@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Laydsigner/laydsigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏾‍💻 Desenvolvedora Front-end em formação
 
-Here are some ideas to get you started:
+🌱 Em transição de carreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aprendendo HTML, CSS, JavaScript e React
+
+💡 Buscando novos desafios e oportunidades no mundo da programação
+
+## Minhas redes sociais 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laydianne-braz-ab509430a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/layd18/)
